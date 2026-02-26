@@ -1,5 +1,5 @@
 # OpenClaw
-摸索
+摸索 Windows+WSL2+Ubantu+openclaw+Minimax+feishu+WebTools+MCP+EXA
 ## 1. WSL2文档介绍Windows下部署Ubantu与Openclaw与飞书奇迹人使用。
 ### 使用Windows10 下， 利用WSL2 ， 下载想用的Ubantu版本系统
 ### 安装 clawdbot（后卸载） / openclaw（当前使用） 项目命名变化太快，clawdbot因为侵权改名，直接删了openclaw， 官网的quickstart 也不新，直接github拉OpenClaw 对着clawdbot文档部署就行。
